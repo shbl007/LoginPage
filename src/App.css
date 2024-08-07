@@ -1,0 +1,3 @@
+.LoginFormButtons{
+  @apply focus:outline-none border border-1
+}
